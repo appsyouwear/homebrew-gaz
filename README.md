@@ -1,0 +1,2 @@
+# homebrew-gaz
+Gazelle terminal
